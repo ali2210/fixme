@@ -8,6 +8,8 @@
     "@types/query-string": "^6.1.0",
     "@types/react": "^16.4.14",
     "@types/react-dom": "^16.0.7",
+    "@types/react-helmet": "^5.0.7",
+    "@types/react-icons": "^2.2.6",
     "@types/react-paginate": "^5.2.1",
     "@types/react-redux": "^6.0.9",
     "@types/react-router-dom": "^4.3.1",
@@ -33,6 +35,8 @@
     "react-async-component": "^2.0.0",
     "react-dom": "^16.5.2",
     "react-ga": "^2.5.3",
+    "react-helmet": "^5.2.0",
+    "react-icons": "^3.2.1",
     "react-markdown": "^3.4.1",
     "react-paginate": "^5.2.4",
     "react-redux": "^5.0.7",
@@ -98,5 +102,10 @@
     "/api": {
       "target": "http://localhost:3000"
     }
-  }
+  },
+  "description": "issues",
+  "main": "index.js",
+  "repository": "http://github.com/ossn/fixme",
+  "author": "i don't know",
+  "license": "MIT"
 }
